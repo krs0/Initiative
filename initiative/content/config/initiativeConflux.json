@@ -1,0 +1,44 @@
+{
+	"core:pixie": {
+		"initiative": 8
+	},
+	"core:sprite": {
+		"initiative": 9
+	},
+	"core:airElemental": {
+		"initiative": 7
+	},
+	"core:stormElemental": {
+		"initiative": 8
+	},
+	"core:waterElemental": {
+		"initiative": 7
+	},
+	"core:iceElemental": {
+		"initiative": 8
+	},
+	"core:fireElemental": {
+		"initiative": 7
+	},
+	"core:energyElemental": {
+		"initiative": 9
+	},
+	"core:earthElemental": {
+		"initiative": 7
+	},
+	"core:magmaElemental": {
+		"initiative": 8
+	},
+	"core:psychicElemental": {
+		"initiative": 8
+	},
+	"core:magicElemental": {
+		"initiative": 9
+	},
+	"core:firebird": {
+		"initiative": 12
+	},
+	"core:phoenix": {
+		"initiative": 15
+	}
+}

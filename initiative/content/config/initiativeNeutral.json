@@ -1,0 +1,47 @@
+{
+	"core:goldGolem": {
+		"initiative": 5
+	},
+	"core:diamondGolem": {
+		"initiative": 6
+	},
+	"core:azureDragon": {
+		"initiative": 13
+	},
+	"core:crystalDragon": {
+		"initiative": 12
+	},
+	"core:fairieDragon": {
+		"initiative": 11
+	},
+	"core:rustDragon": {
+		"initiative": 13
+	},
+	"core:enchanter": {
+		"initiative": 8
+	},
+	"core:sharpshooter": {
+		"initiative": 8
+	},
+	"core:halfling": {
+		"initiative": 5
+	},
+	"core:peasant": {
+		"initiative": 3
+	},
+	"core:boar": {
+		"initiative": 5
+	},
+	"core:mummy": {
+		"initiative": 4
+	},
+	"core:nomad": {
+		"initiative": 7
+	},
+	"core:rogue": {
+		"initiative": 7
+	},
+	"core:troll": {
+		"initiative": 6
+	}
+}

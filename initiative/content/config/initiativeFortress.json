@@ -1,0 +1,44 @@
+{
+	"core:gnoll": {
+		"initiative": 5
+	},
+	"core:gnollMarauder": {
+		"initiative": 6
+	},
+	"core:lizardman": {
+		"initiative": 6
+	},
+	"core:lizardWarrior": {
+		"initiative": 7
+	},
+	"core:serpentFly": {
+		"initiative": 9
+	},
+	"core:fireDragonFly": {
+		"initiative": 11
+	},
+	"core:basilisk": {
+		"initiative": 6
+	},
+	"core:greaterBasilisk": {
+		"initiative": 7
+	},
+	"core:gorgon": {
+		"initiative": 7
+	},
+	"core:mightyGorgon": {
+		"initiative": 8
+	},
+	"core:wyvern": {
+		"initiative": 9
+	},
+	"core:wyvernMonarch": {
+		"initiative": 10
+	},
+	"core:hydra": {
+		"initiative": 9
+	},
+	"core:chaosHydra": {
+		"initiative": 10
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"core:pikeman": {
+		"initiative": 5
+	},
+	"core:halberdier": {
+		"initiative": 6
+	},
+	"core:archer": {
+		"initiative": 6
+	},
+	"core:marksman": {
+		"initiative": 7
+	},
+	"core:griffin": {
+		"initiative": 8
+	},
+	"core:royalGriffin": {
+		"initiative": 9
+	},
+	"core:swordsman": {
+		"initiative": 6
+	},
+	"core:crusader": {
+		"initiative": 7
+	},
+	"core:monk": {
+		"initiative": 6
+	},
+	"core:zealot": {
+		"initiative": 7
+	},
+	"core:cavalier": {
+		"initiative": 8
+	},
+	"core:champion": {
+		"initiative": 9
+	},
+	"core:angel": {
+		"initiative": 10
+	},
+	"core:archangel": {
+		"initiative": 13
+	}
+}

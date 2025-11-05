@@ -1,0 +1,44 @@
+{
+	"core:goblin": {
+		"initiative": 5
+	},
+	"core:hobgoblin": {
+		"initiative": 7
+	},
+	"core:goblinWolfRider": {
+		"initiative": 7
+	},
+	"core:hobgoblinWolfRider": {
+		"initiative": 8
+	},
+	"core:orc": {
+		"initiative": 6
+	},
+	"core:orcChieftain": {
+		"initiative": 7
+	},
+	"core:ogre": {
+		"initiative": 6
+	},
+	"core:ogreMage": {
+		"initiative": 7
+	},
+	"core:roc": {
+		"initiative": 9
+	},
+	"core:thunderbird": {
+		"initiative": 10
+	},
+	"core:cyclop": {
+		"initiative": 7
+	},
+	"core:cyclopKing": {
+		"initiative": 8
+	},
+	"core:behemoth": {
+		"initiative": 9
+	},
+	"core:ancientBehemoth": {
+		"initiative": 10
+	}
+}

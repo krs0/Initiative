@@ -1,0 +1,44 @@
+{
+	"core:skeleton": {
+		"initiative": 4
+	},
+	"core:skeletonWarrior": {
+		"initiative": 5
+	},
+	"core:walkingDead": {
+		"initiative": 3
+	},
+	"core:zombieLord": {
+		"initiative": 4
+	},
+	"core:wight": {
+		"initiative": 8
+	},
+	"core:wraith": {
+		"initiative": 9
+	},
+	"core:vampire": {
+		"initiative": 7
+	},
+	"core:vampireLord": {
+		"initiative": 9
+	},
+	"core:lich": {
+		"initiative": 6
+	},
+	"core:powerLich": {
+		"initiative": 7
+	},
+	"core:blackKnight": {
+		"initiative": 8
+	},
+	"core:dreadKnight": {
+		"initiative": 9
+	},
+	"core:boneDragon": {
+		"initiative": 10
+	},
+	"core:ghostDragon": {
+		"initiative": 12
+	}
+}

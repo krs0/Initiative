@@ -1,0 +1,38 @@
+{
+	"name" : "Initiative",
+	"description" : "Initiative separate from Speed mod.",
+	"modType" : "Mechanics",
+	"author" : "Krs",
+	"contact" : "",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"version" : "1.0",
+	"downloadSize" : 0.1,
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" :
+	{
+		"1.0"   : [ "Initial release" ]
+	},
+	"settings" : {
+		"modules" : {
+			"initiative" : true
+		}
+	},
+	"creatures" :
+	[
+		"config/initiativeCastle.json",
+		"config/initiativeRampart.json",
+		"config/initiativeTower.json",
+		"config/initiativeInferno.json",
+		"config/initiativeNecropolis.json",
+		"config/initiativeDungeon.json",
+		"config/initiativeStronghold.json",
+		"config/initiativeFortress.json",
+		"config/initiativeConflux.json",
+		"config/initiativeNeutral.json"
+	]
+}
+
